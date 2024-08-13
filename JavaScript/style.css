@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+.project {
+    color: white;
+    font-size: large;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.color {
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    padding-left: 600px;
+    padding-top: 10px;
+}
+
+table,
+thead,
+tbody,
+th,
+td {
+    border: 1px solid #e7e7e7;
+}
