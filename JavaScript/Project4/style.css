@@ -1,0 +1,13 @@
+.bmi_calc{
+    padding-left: 40%;
+    padding-top: 5%;
+}
+
+body{
+    background-color:#ffd1e6
+}
+
+#button{
+   margin-left: 100px;
+   border-radius: 2px;
+}
