@@ -1,0 +1,19 @@
+#clock {
+    font-size: medium;
+    background-color: orange;
+    border-radius: 15px;
+    padding: 20px 50px;
+    margin-top: 10px;
+    
+}
+.center{
+    padding-top: 10%;
+    text-align: center;
+}
+
+#clock{
+    height: 20px;
+    width: 55px;
+    margin-left: 600px;
+    font-weight: bold;
+}
