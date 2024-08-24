@@ -1,0 +1,30 @@
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+body{
+    background-color: #fdb48d;
+}
+#submit{
+    background-color: black;
+    color: white;
+    font-family: bold;
+    border-radius: 15px;
+    height: 40px;
+    width: 140px;
+    font-size: medium;
+}
+#number{
+    background-color: black;
+    color: white;
+}
